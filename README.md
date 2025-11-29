@@ -1,2 +1,2 @@
 # WebKung
-Yang bikin ganteng
+Yang Bikin Sigma
